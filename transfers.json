@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "player": "Килиан Мбаппе",
+    "from": "ПСЖ",
+    "to": "Реал Мадрид",
+    "date": "2024-07-01",
+    "price": "120M€",
+    "position": "Нападающий",
+    "photo": "https://example.com/mbappe.jpg"
+  },
+  {
+    "id": 2,
+    "player": "Гарри Кейн",
+    "from": "Тоттенхэм",
+    "to": "Бавария",
+    "date": "2024-06-15",
+    "price": "100M€",
+    "position": "Форвард",
+    "photo": "https://example.com/kane.jpg"
+  },
+  {
+    "id": 3,
+    "player": "Джуд Беллингем",
+    "from": "Боруссия Д",
+    "to": "Реал Мадрид",
+    "date": "2024-07-20",
+    "price": "103M€",
+    "position": "Полузащитник",
+    "photo": "https://example.com/bellingham.jpg"
+  }
+]
